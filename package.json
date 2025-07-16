@@ -1,0 +1,14 @@
+{
+  "name": "chat-app-backend",
+  "version": "1.0.0",
+  "description": "A real-time public group chat backend built with Node.js, Express.js, MongoDB, and Socket.IO. Supports JWT authentication, text messaging, image/video uploads, and voice messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huzaifa Bin Haleem",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
